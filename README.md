@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação do tabnews.com.br para revisar alguns skills de programação
+I'm using the implementation of tabnews.com.br as an opportunity to review and enhance my programming skills.
